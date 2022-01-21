@@ -14,6 +14,7 @@
 [Unity 2019.4.31f1](https://unity3d.com/kr/unity/whats-new/2019.4.31)<br>
 [VRCSDK 3.0](https://vrchat.com/home/download)<br>
 [UDONSharp](https://github.com/MerlinVR/UdonSharp)<br>
+[Bakery](https://assetstore.unity.com/packages/tools/level-design/bakery-gpu-lightmapper-122218)<br>
 
 ## License / 라이센스
 [GNU LESSER GENERAL PUBLIC LICENSE](https://github.com/kibalab/GangNamExpressBusTerminal/blob/master/LICENSE) <br>
