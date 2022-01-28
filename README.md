@@ -17,7 +17,7 @@
 [Bakery](https://assetstore.unity.com/packages/tools/level-design/bakery-gpu-lightmapper-122218)<br>
 
 ## License / 라이센스
-[GNU LESSER GENERAL PUBLIC LICENSE](https://github.com/kibalab/GangNamExpressBusTerminal/blob/master/LICENSE) <br>
+[MIT LICENSE](https://github.com/kibalab/GangNamExpressBusTerminal/blob/master/LICENSE) <br>
 **!중요!** 디스플레이 쉐이더는 위 라이센스를 취급하지 않습니다 **!중요!** <br>
 **!Important!** The display shader does not apply the license. **! Important!** <br><br>
 저작자 명시는 월드 내에 3D오브젝트또는 텍스쳐로 부탁드립니다.<br>
